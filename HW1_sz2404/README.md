@@ -20,7 +20,7 @@ I created a new repository following the instruction and using the methods from 
   8. After finishing editing the file, use the git commit command and git push command to have the file updated online/sync
   9. Use git rm command to delete the random testing file (new.txt), commit this action (git commit -m) and push this operation (git push). This step is to keep the folders clean. 
 
-## Last Week's assignment demonstrate:
+## Last Week's assignment demonstration:
 
 The following parts demonstrates creating environmental variables and alias.
 I followed the instructions from the previous assignment, located here: 
