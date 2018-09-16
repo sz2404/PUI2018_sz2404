@@ -1,6 +1,12 @@
 # Homework 1 - Forking, Merging, Conflict Resolution
 I created the account gittest_sz2404 for testing forking, merging, and conflict resolution. 
-I worked with myself's other account. 
+
+I worked with Change (Angel) Lau. 
+
+I messed with Chang (Angel) Lau’s repo: https://github.com/AngelLau/gittest_AngelLau
+
+Angel also messed with my gittest_sz2404 repo. 
+
 
 # Homework 2 - PUI2018 Repository
 I created a new repository following the instruction and using the methods from the lab.
