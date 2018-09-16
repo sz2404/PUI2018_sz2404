@@ -4,12 +4,14 @@ I worked with myself's other account.
 
 # Homework 2 - PUI2018 Repository
 I created a new repository following the instruction and using the methods from the lab.
-  1. Create the PUI2018_sz2404 web repository. 
+  1. Create the PUI2018_sz2404 web repository, a README.md for stating the purpose of this repo, and the HW1_sz2404 folder.
   2. Open my terminal. 
-  3. Use the mkdir command to create the new folder on my local machine. 
-  4. Use the cd command to get into the folder. 
-  5. Use touch README.md to create a file inside PUI2018_sz2404
-  6. Use git remote add origin https://github.com/sz2404/PUI2018_sz2404.git (it shows the remote origin already exist so I cAN push my files to be synced online). 
+  3. Use the mkdir command to create the new directory on my local machine. 
+  4. Use the cd command to get into the folder and git init command for link initialization.
+  5. Use git remote add origin https://github.com/sz2404/PUI2018_sz2404.git AND git push -u origin master to establish the connection. 
+  6. Use cd to get into the HW1 folder and use touch README.md to create the homework file (which is this file) and git add command to inject it into the repo. 
+  7. After finishing editing the file, use git commit command and git push command to have the file 
+
 
 ## Last Week's assignment demonstrate:
 
