@@ -4,6 +4,12 @@ I worked with myself's other account.
 
 # Homework 2 - PUI2018 Repository
 I created a new repository following the instruction and using the methods from the lab.
+  1. Create the PUI2018_sz2404 web repository. 
+  2. Open my terminal. 
+  3. Use the mkdir command to create the new folder on my local machine. 
+  4. Use the cd command to get into the folder. 
+  5. Use touch README.md to create a file inside PUI2018_sz2404
+  6. Use git remote add origin https://github.com/sz2404/PUI2018_sz2404.git (it shows the remote origin already exist so I cAN push my files to be synced online). 
 
 ## Last Week's assignment demonstrate:
 
