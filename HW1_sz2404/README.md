@@ -2,5 +2,5 @@
 
 Here is my bash_profile
 
-![Screenshot](bash_profile.png)
+![Screenshot](Bash_profile.png)
     
