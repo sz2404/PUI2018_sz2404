@@ -29,10 +29,10 @@ https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_2_instructions.
 I used the export function to create the environmental variables, and I used the alias function to create a alias which is a shortcut to access my folders for storing PUI2018 assignments.
 
 Here is my bash_profile:
-![Alt text](../HW1_sz2404/Bash_profile.png)
+![Alt text](../HW1_sz2404/Mac_Bash_Profile.png)
 
 And here is testing results for my environmental variables and alias
-![Alt text](../HW1_sz2404/Testing.png)
+![Alt text](../HW1_sz2404/Mac_Testing.png)
 
 # Homework 3 - Reproducible Research Code
 
