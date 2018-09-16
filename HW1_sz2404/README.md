@@ -17,5 +17,5 @@ Here is my bash_profile:
 ![Screenshot](Bash_Profile.png)
 
 And here is testing results for my environmental variables and alias
-
+![Screenshot](Testing.png)
 
