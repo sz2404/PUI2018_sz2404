@@ -31,7 +31,7 @@ I used the export function to create the environmental variables, and I used the
 Here is my bash_profile:
 ![Alt text](../HW1_sz2404/Mac_Bash_Profile.png)
 
-And here is testing results for my environmental variables and alias
+And here are the testing results for my environmental variables and alias
 ![Alt text](../HW1_sz2404/Mac_Testing.png)
 
 # Homework 3 - Reproducible Research Code
