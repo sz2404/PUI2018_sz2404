@@ -27,4 +27,3 @@ Here is my bash_profile:
 And here is testing results for my environmental variables and alias
 ![Screenshot](Testing.png)
 
-/Users/lavz/Desktop/download.png
