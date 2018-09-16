@@ -26,13 +26,19 @@ The following parts demonstrates creating environmental variables and alias.
 I followed the instructions from the previous assignment, located here: 
 https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_2_instructions.md
 
-I used the export function to create the environmental variables, and I used the alias function to create a alias which is a shortcut to access my folders for storing PUI2018 assignments.
+I used the export function to create the environmental variables, and I used the alias function to create a alias which is a shortcut to access my PUI2018 folder. Here are the steps:
+
+  1. Use nano command (nano ~/.bash_profile) to access the profile page
+  2. Use export command (export PUI2018=“/Users/lavz/PUI2018”) to set up an environmental variable for the PUI2018 directory
+  3. Use alias command (alias pui2018=“cd $PUI2018”) to create an alias command as a shortcut to access the PUI2018 directory
 
 Here is my bash_profile:
 ![Alt text](../HW1_sz2404/Mac_Bash_Profile.png)
 
 And here are the testing results for my environmental variables and alias
 ![Alt text](../HW1_sz2404/Mac_Testing.png)
+
+The testing results show that pui2018 as an alias has been set up that directs to the PUI2018 directory. 
 
 # Homework 3 - Reproducible Research Code
 
