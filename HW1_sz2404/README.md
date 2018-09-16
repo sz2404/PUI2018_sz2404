@@ -34,3 +34,8 @@ Here is my bash_profile:
 And here is testing results for my environmental variables and alias
 ![Screenshot](Testing.png)
 
+# Homework 3 - Reproducible Research Code
+
+I finished the extra credit last week and have submitted the Python notebook to NYU Class. I have also uploaded it into the HW1_sz2404 folder, under the name of ‘HW1_reproducible_distributions.ipynb’. 
+
+
