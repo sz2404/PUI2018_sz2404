@@ -42,6 +42,6 @@ The testing results show that pui2018 as an alias has been set up that directs t
 
 # Homework 3 - Reproducible Research Code
 
-I finished the extra credit last week and have submitted the Python notebook to NYU Class. I have also uploaded it into the HW1_sz2404 folder, under the name of ‘HW1_reproducible_distributions.ipynb’. 
+I finished the extra credit last week and have submitted the Python notebook to NYU Class. I have also uploaded it into the HW1_sz2404 folder, under the name of ‘HW1_3_instructions_sz2404_Final.ipynb’. 
 
 
