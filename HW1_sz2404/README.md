@@ -1,5 +1,5 @@
 # Homework 1 - Forking, Merging, and Conflict Resolution
-I created the account gittest_sz2404 for testing forking, merging, and conflict resolution functions. 
+I created the repo gittest_sz2404 for testing forking, merging, and conflict resolution functions. 
 
 I worked with Chang (Angel) Liu on this part for experimenting fork. 
 
