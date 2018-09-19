@@ -7,6 +7,8 @@ I messed with Chang (Angel) Liu’s repo: https://github.com/AngelLau/gittest_An
 
 Angel also messed with my gittest_sz2404 repo. 
 
+Special thanks to my TA, Fu Shang for answering my question and explaining git push function. 
+
 
 # Homework 2 - PUI2018 Repository
 I created a new repository following the instruction and using the methods from the lab.
