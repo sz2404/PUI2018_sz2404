@@ -7,7 +7,3 @@ For idea exchange, other repositories will be set up later.
 
 Thank you!
 
-
-
-![Screenshot](TandonLogo.png)
-
