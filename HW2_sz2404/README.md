@@ -8,6 +8,7 @@ Here's the commands I used in the terminal for erasing the file and the history:
 ![Alt text](../HW2_sz2404/Terminal Commands.png)
 
 # Homework 2 - Part 2
+In this section
 
 # Homework 2 - Extra Credit
 
