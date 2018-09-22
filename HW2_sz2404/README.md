@@ -20,7 +20,7 @@ For this part, I used the try and except statements twice:
 
 # Homework 2 - Part 4
 
-# Collaboration:
+# Collaboration Statemnet:
 Specials thanks to Ilyas Habeeb and Te Du:
 
 I consulted Te Du (a previous CUSP student) to explain the for loop and how to use the Try and Except within it.
