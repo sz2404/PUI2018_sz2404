@@ -22,8 +22,10 @@ For this part, I used the try and except statements twice:
 
 # Collaboration:
 Specials thanks to Ilyas Habeeb and Te Du:
+
 I consulted Te Du (a previous CUSP student) to explain the for loop and how to use the Try and Except within it.
-I discussed certain functions, i.e. if statement, with TA Ilyas Habeeb. Ilyas also explained the rotation for ticks in plotting function as well the instructions for the Extra Credit section. 
+
+I discussed certain functions, i.e. if statement, with TA Ilyas Habeeb. Ilyas also explained the rotation for ticks in plotting function as well the instructions for the Extra Credit section. Ilyas also mentioned to me that the py script should cover situations where bus data is not available following running bus format. 
 
 # Other Links Refered:
 For printing information on csv, I used fout.writelines functions: http://www.pitt.edu/~naraehan/python2/reading_writing_methods.html
