@@ -32,3 +32,8 @@ For printing information on csv, I used fout.writelines functions: http://www.pi
 
 For figure size setting, I refered to this link: 
 https://matplotlib.org/api/_as_gen/matplotlib.figure.Figure.html
+
+For making a list/tuples into a string through the join() function, I referred to this link:
+https://www.quora.com/In-Python-how-do-you-convert-a-list-to-a-string
+
+
