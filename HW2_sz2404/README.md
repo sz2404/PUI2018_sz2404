@@ -1,6 +1,7 @@
 # Homework 2 - Part 1
 Perform the instruction in deleteData.md: delete data and its history from a GitHub repo.
 I created a random txt file called Testing1. txt. Then I followed Dr. Bianco's lab (found here: https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/deleteData.md) to force delete the file and it's traces in the history. 
+
 Here's the screenshot of the file I created:
 ![Alt text](../HW2_sz2404/Testing_File.png)
 
