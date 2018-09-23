@@ -31,17 +31,28 @@ For this part, I built in based on the existing code I wrote in Part 3.
 # Collaboration Statement:
 Specials thanks to Ilyas Habeeb and Te Du:
 
-I consulted Te Du (a previous CUSP student) to explain the for loop and how to use the Try and Except within it.
+I consulted Te Du (a previous CUSP student) to explain the for loop, the Try and Except function.
 
 I discussed certain functions, i.e. if statement, with TA Ilyas Habeeb. Ilyas also explained the rotation for ticks in plotting function as well the instructions for the Extra Credit section. Ilyas also mentioned to me that the py script should cover situations where bus data is not available following running bus format. 
 
 # Other Links Refered:
 For printing information on csv, I used fout.writelines functions: http://www.pitt.edu/~naraehan/python2/reading_writing_methods.html
 
-For figure size setting, I refered to this link: 
+For figure size setting, I referred to this link: 
 https://matplotlib.org/api/_as_gen/matplotlib.figure.Figure.html
 
 For making a list/tuples into a string through the join() function, I referred to this link:
 https://www.quora.com/In-Python-how-do-you-convert-a-list-to-a-string
+
+For if statements, I referred to this link:
+http://anh.cs.luc.edu/handsonPythonTutorial/ifstatements.html
+
+For xticks on plot setting, I referred to this link: 
+https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html
+
+and 
+
+https://stackoverflow.com/questions/46456179/matplotlib-is-ignoring-locator-params-nticks-command
+
 
 
