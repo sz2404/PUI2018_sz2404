@@ -9,9 +9,16 @@ Here's the commands I used in the terminal for erasing the file and the history:
 ![Alt text](../HW2_sz2404/Terminal_Commands.png)
 
 # Homework 2 - Part 2
-In this section
+In this section, I am using the Tonnage Data collected by DSNY. 
+
+I mostly followed Professor Bianco's commands from the Assignment2_example (https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/Assignment2_example.ipynb). 
+
+Regarding displaying columns and displaying top rows etc. For dropping columns, I used the drop() command. 
 
 # Homework 2 - Extra Credit
+The reading JSON part, I followed Professor Bianco's instruction, obtained the link from SODA API for the JSON file then used the pandas JSON reading function to structure the datafram. 
+
+The plotting date against another number part, I sticked to the tonnage data and displayed the monthly recycled paper weight. 
 
 # Homework 2 - Part 3
 For this part, I used the try and except statements twice:
@@ -19,6 +26,7 @@ For this part, I used the try and except statements twice:
 2. Sometimes, there will be no information for the location as buses are possibly not running. The second try and except statements are set up under the 'for loop' to distinguise buses that have valid location data versus not. 
 
 # Homework 2 - Part 4
+For this part, I built in based on the existing code I wrote in Part 3. 
 
 # Collaboration Statemnet:
 Specials thanks to Ilyas Habeeb and Te Du:
