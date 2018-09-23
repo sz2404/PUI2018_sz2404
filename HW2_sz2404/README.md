@@ -1,6 +1,6 @@
 # Homework 2 - Part 1
 Perform the instruction in deleteData.md: delete data and its history from a GitHub repo.
-I created a random txt file called Testing1. txt. Then I followed Dr. Bianco's lab found [here] (https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/deleteData.md) to force delete the file and it's traces in the history. 
+I created a random txt file called Testing1. txt. Then I followed Dr. Bianco's lab found [here](https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/deleteData.md) to force delete the file and it's traces in the history. 
 
 Here's the screenshot of the file I created:
 
@@ -15,7 +15,7 @@ The history section of HW3_sz2404 does not have trace of this file (Testing1.txt
 # Homework 2 - Part 2
 In this section, I am using the Tonnage Data collected by DSNY. 
 
-I mostly followed Professor Bianco's commands from the [Assignment2_example] (https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/Assignment2_example.ipynb). 
+I mostly followed Professor Bianco's commands from the [Assignment2_example](https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/Assignment2_example.ipynb). 
 
 Regarding displaying columns and displaying top rows etc. For dropping columns, I used the drop() command. 
 
