@@ -3,10 +3,14 @@ Perform the instruction in deleteData.md: delete data and its history from a Git
 I created a random txt file called Testing1. txt. Then I followed Dr. Bianco's lab (found here: https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/deleteData.md) to force delete the file and it's traces in the history. 
 
 Here's the screenshot of the file I created:
+
 ![Alt text](../HW2_sz2404/Testing_File.png)
 
 Here's the commands I used in the terminal for erasing the file and the history:
+
 ![Alt text](../HW2_sz2404/Terminal_Commands.png)
+
+The history section of HW3_sz2404 does not have trace of this file (Testing1.txt) being added and deleted. 
 
 # Homework 2 - Part 2
 In this section, I am using the Tonnage Data collected by DSNY. 
@@ -25,7 +29,7 @@ For ticks rotation, I customized the rotation angle. Instead of using 90 degrees
 The plotting date against another number part, I sticked to the tonnage data because it included dates (Year/Month). I plotted the monthly recycled paper weight per community against month.
 
 #### Watershed data plotting
-2. I also picked up another dataset, "Watershed Water Quality Data" to practice the functions. Data can be accessed here: https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92/data
+2. I also picked up another dataset, "Watershed Water Quality Data" to practice the functions and plotting. Data can be accessed here: https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92/data
 
 In this part, I repeated the procedures above but for dropping columns, I followed professor's instructions to select the two needed columns instead of dropping others. 
 
