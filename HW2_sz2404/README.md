@@ -51,9 +51,12 @@ Therefore, I structured the code with 2 "try and except statements" to cover dif
 To find out which bus is on 'Select Bus Service': http://web.mta.info/nyct/service/bus/mhtnsch.htm
 
 # Homework 2 - Part 4
-For this part, I built in based on the existing code I wrote in Part 3. I referred to professor's code [here]( https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py)
+For this part, I built in based on the existing code I wrote in Part 3. 
 
-I used the writelines function at the end to display the information in the CSV file. 
+Regarding creating CSV file and write lines, I referred to professor's code [here]( https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py)
+
+
+At the end, I used the writelines function at the end to display the information in the CSV file. 
     
 
 # Collaboration Statement:
