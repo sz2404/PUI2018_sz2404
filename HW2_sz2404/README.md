@@ -28,7 +28,7 @@ For this part, I used the try and except statements twice:
 # Homework 2 - Part 4
 For this part, I built in based on the existing code I wrote in Part 3. 
 
-# Collaboration Statemnet:
+# Collaboration Statement:
 Specials thanks to Ilyas Habeeb and Te Du:
 
 I consulted Te Du (a previous CUSP student) to explain the for loop and how to use the Try and Except within it.
