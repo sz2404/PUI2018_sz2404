@@ -55,8 +55,9 @@ For this part, I built in based on the existing code I wrote in Part 3.
 
 Regarding creating CSV file and write lines, I referred to professor's code [here]( https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py)
 
-
 At the end, I used the writelines function at the end to display the information in the CSV file. 
+
+I included the Q102.csv as a sample of my bus information output. 
     
 
 # Collaboration Statement:
