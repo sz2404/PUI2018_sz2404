@@ -1,6 +1,6 @@
 # Homework 2 - Part 1
 Perform the instruction in deleteData.md: delete data and its history from a GitHub repo.
-I created a random txt file called Testing1. txt. Then I followed Dr. Bianco's lab (found here: https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/deleteData.md) to force delete the file and it's traces in the history. 
+I created a random txt file called Testing1. txt. Then I followed Dr. Bianco's lab found [here] (https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/deleteData.md) to force delete the file and it's traces in the history. 
 
 Here's the screenshot of the file I created:
 
@@ -15,7 +15,7 @@ The history section of HW3_sz2404 does not have trace of this file (Testing1.txt
 # Homework 2 - Part 2
 In this section, I am using the Tonnage Data collected by DSNY. 
 
-I mostly followed Professor Bianco's commands from the Assignment2_example (https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/Assignment2_example.ipynb). 
+I mostly followed Professor Bianco's commands from the [Assignment2_example] (https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/Assignment2_example.ipynb). 
 
 Regarding displaying columns and displaying top rows etc. For dropping columns, I used the drop() command. 
 
@@ -29,7 +29,7 @@ For ticks rotation, I customized the rotation angle. Instead of using 90 degrees
 The plotting date against another number part, I sticked to the tonnage data because it included dates (Year/Month). I plotted the monthly recycled paper weight per community against month.
 
 #### Watershed data plotting
-2. I also picked up another dataset, "Watershed Water Quality Data" to practice the functions and plotting. Data can be accessed here: https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92/data
+2. I also picked up another dataset, "Watershed Water Quality Data" to practice the functions and plotting. Data can be accessed [Here](https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92/data)
 
 In this part, I repeated the procedures above but for dropping columns, I followed professor's instructions to select the two needed columns instead of dropping others. 
 
@@ -37,12 +37,19 @@ I plotted the Turbidity collected at selected sites around 8AM against the date 
 
 
 # Homework 2 - Part 3
-For this part, I used the try and except statements twice:
-1. Some Select Bus Lines (possibly services interruption) have different data structure or no data. The first try and except statements are trying to seperate the different outputs for regular running buses and some interrupted service (for example, M34, M23). 
-2. Sometimes, there will be no information for the location as buses are possibly not running. The second try and except statements are set up under the 'for loop' to distinguise buses that have valid location data versus not. 
+For this part, I referred to professor's practices in the [APIreadingJson.ipynb](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/APIreadingJson.ipynb). 
+
+After initial completion, I realized my code works for buses running on regular services. However, when I tested on some buses (such as M34, M23 etc.) that are on "Selected Bus Services", it returned an error because the JSON data structure is different (they do not have actual data; missing key 'VehicleActivity' in the JSON file). However, not every single bus that is on 'Selected Bus Services' would have no read-time data. 
+
+Therefore, I structured the code with 2 "try and except statements" to cover different situations:
+1. Some Select Bus Lines (possibly services interruption) have different data structure or no data. The first try and except statements are trying to seperate the different outputs for regular running buses and some interrupted service. Interrupted service bus with no real-time data will return with a result of 'No Active Bus' plus Bus Number and Active Bus Number. 
+
+2. Sometimes, there will be no information for the location as buses are possibly not running. The second try and except statements are set up under the 'for loop' to display bus that do not have valid location data.
+
+To find out which bus is on 'Select Bus Service': http://web.mta.info/nyct/service/bus/mhtnsch.htm
 
 # Homework 2 - Part 4
-For this part, I built in based on the existing code I wrote in Part 3. I referred to professor's code in: https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py
+For this part, I built in based on the existing code I wrote in Part 3. I referred to professor's code [here]( https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py)
 
 I used the writelines function at the end to display the information in the CSV file. 
     
