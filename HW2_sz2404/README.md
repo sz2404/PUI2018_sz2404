@@ -20,6 +20,7 @@ Regarding displaying columns and displaying top rows etc. For dropping columns, 
 The reading JSON part, I followed Professor Bianco's instruction, obtained the link from SODA API for the JSON file then used the pandas JSON reading function to structure the dataframe for the DSNY data. 
 
 ### Ploting numerical information against date:
+For ticks rotation, I customized the rotation angle. Instead of using 90 degrees since sometimes 90 degress maybe hard for the readers to read it (turning head is not super comfortable), I used angle between 40 to 60 so no head turning is necessary to reading the ticks. 
 #### Tonnage data plotting
 The plotting date against another number part, I sticked to the tonnage data because it included dates (Year/Month). I plotted the monthly recycled paper weight per community against month.
 
