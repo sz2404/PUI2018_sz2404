@@ -20,10 +20,10 @@ Regarding displaying columns and displaying top rows etc. For dropping columns, 
 The reading JSON part, I followed Professor Bianco's instruction, obtained the link from SODA API for the JSON file then used the pandas JSON reading function to structure the dataframe for the DSNY data. 
 
 ### Ploting numerical information against date:
-##### Tonnage data plotting
+#### Tonnage data plotting
 The plotting date against another number part, I sticked to the tonnage data because it included dates (Year/Month). I plotted the monthly recycled paper weight per community against month.
 
-##### Watershed data plotting
+#### Watershed data plotting
 2. I also picked up another dataset, "Watershed Water Quality Data" to practice the functions. Data can be accessed here: https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92/data
 
 In this part, I repeated the procedures above but for dropping columns, I followed professor's instructions to select the two needed columns instead of dropping others. 
