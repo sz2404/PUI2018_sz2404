@@ -29,7 +29,7 @@ The plotting date against another number part, I sticked to the tonnage data bec
 
 In this part, I repeated the procedures above but for dropping columns, I followed professor's instructions to select the two needed columns instead of dropping others. 
 
-I plotted the Turbidity collected at 8AM (on different sites) against the date of collection. 
+I plotted the Turbidity collected at selected sites around 8AM against the date of collection. 
 
 
 # Homework 2 - Part 3
@@ -38,14 +38,17 @@ For this part, I used the try and except statements twice:
 2. Sometimes, there will be no information for the location as buses are possibly not running. The second try and except statements are set up under the 'for loop' to distinguise buses that have valid location data versus not. 
 
 # Homework 2 - Part 4
-For this part, I built in based on the existing code I wrote in Part 3. 
+For this part, I built in based on the existing code I wrote in Part 3. I referred to professor's code in: https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py
+
+I used the writelines function at the end to display the information in the CSV file. 
+    
 
 # Collaboration Statement:
 Specials thanks to Ilyas Habeeb and Te Du:
 
 I consulted Te Du (a previous CUSP student) to explain the for loop, the Try and Except function.
 
-I discussed certain functions, i.e. if statement, with TA Ilyas Habeeb. Ilyas also explained the rotation for ticks in plotting function as well the instructions for the Extra Credit section. Ilyas also mentioned to me that the py script should cover situations where bus data is not available following running bus format. 
+I discussed certain functions, i.e. if statement, write function, with TA Ilyas Habeeb. Ilyas also explained Part 4 of the homework and the rotation for ticks in plotting function as well the instructions for the Extra Credit section. Ilyas also mentioned to me that the py script should cover situations where bus data is not available following running bus format and suggested using if functions to cover different situations. 
 
 # Other Links Refered:
 For printing information on csv, I used fout.writelines functions: http://www.pitt.edu/~naraehan/python2/reading_writing_methods.html
