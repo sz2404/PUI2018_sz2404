@@ -19,6 +19,8 @@ I mostly followed Professor Bianco's commands from the [Assignment2_example](htt
 
 Regarding displaying columns and displaying top rows etc. For dropping columns, I used the drop() command. 
 
+The plot shows a positive correlation between trash collected and paper recycled.
+
 # Homework 2 - Extra Credit
 ### JSON file reading: 
 The reading JSON part, I followed Professor Bianco's instruction, obtained the link from SODA API for the JSON file then used the pandas JSON reading function to structure the dataframe for the DSNY data. 
