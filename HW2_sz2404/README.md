@@ -16,9 +16,20 @@ I mostly followed Professor Bianco's commands from the Assignment2_example (http
 Regarding displaying columns and displaying top rows etc. For dropping columns, I used the drop() command. 
 
 # Homework 2 - Extra Credit
-The reading JSON part, I followed Professor Bianco's instruction, obtained the link from SODA API for the JSON file then used the pandas JSON reading function to structure the datafram. 
+### JSON file reading: 
+The reading JSON part, I followed Professor Bianco's instruction, obtained the link from SODA API for the JSON file then used the pandas JSON reading function to structure the dataframe for the DSNY data. 
 
-The plotting date against another number part, I sticked to the tonnage data and displayed the monthly recycled paper weight. 
+### Ploting numerical information against date:
+##### Tonnage data plotting
+The plotting date against another number part, I sticked to the tonnage data because it included dates (Year/Month). I plotted the monthly recycled paper weight per community against month.
+
+##### Watershed data plotting
+2. I also picked up another dataset, "Watershed Water Quality Data" to practice the functions. Data can be accessed here: https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92/data
+
+In this part, I repeated the procedures above but for dropping columns, I followed professor's instructions to select the two needed columns instead of dropping others. 
+
+I plotted the Turbidity collected at 8AM (on different sites) against the date of collection. 
+
 
 # Homework 2 - Part 3
 For this part, I used the try and except statements twice:
