@@ -59,7 +59,7 @@ I used the writelines function at the end to display the information in the CSV 
 # Collaboration Statement:
 Specials thanks to Ilyas Habeeb and Te Du:
 
-I consulted Te Du (a previous CUSP student) to explain the for loop, the Try and Except function.
+I consulted Te Du (a previous CUSP student) to explain the for loop, the Try and Except function, numerical data (quantitative vs qualitative).
 
 I discussed certain functions, i.e. if statement, write function, with TA Ilyas Habeeb. Ilyas also explained Part 4 of the homework and the rotation for ticks in plotting function as well the instructions for the Extra Credit section. Ilyas also mentioned to me that the py script should cover situations where bus data is not available following running bus format and suggested using if functions to cover different situations. 
 
