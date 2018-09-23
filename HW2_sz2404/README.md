@@ -19,6 +19,8 @@ I mostly followed Professor Bianco's commands from the [Assignment2_example](htt
 
 Regarding displaying columns and displaying top rows etc. For dropping columns, I used the drop() command. 
 
+The plot shows a positive correlation between trash collected and paper recycled.
+
 # Homework 2 - Extra Credit
 ### JSON file reading: 
 The reading JSON part, I followed Professor Bianco's instruction, obtained the link from SODA API for the JSON file then used the pandas JSON reading function to structure the dataframe for the DSNY data. 
@@ -49,15 +51,18 @@ Therefore, I structured the code with 2 "try and except statements" to cover dif
 To find out which bus is on 'Select Bus Service': http://web.mta.info/nyct/service/bus/mhtnsch.htm
 
 # Homework 2 - Part 4
-For this part, I built in based on the existing code I wrote in Part 3. I referred to professor's code [here]( https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py)
+For this part, I built in based on the existing code I wrote in Part 3. 
 
-I used the writelines function at the end to display the information in the CSV file. 
+Regarding creating CSV file and write lines, I referred to professor's code [here]( https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py)
+
+
+At the end, I used the writelines function at the end to display the information in the CSV file. 
     
 
 # Collaboration Statement:
 Specials thanks to Ilyas Habeeb and Te Du:
 
-I consulted Te Du (a previous CUSP student) to explain the for loop, the Try and Except function.
+I consulted Te Du (a previous CUSP student) to explain the for loop, the Try and Except function, numerical data (quantitative vs qualitative).
 
 I discussed certain functions, i.e. if statement, write function, with TA Ilyas Habeeb. Ilyas also explained Part 4 of the homework and the rotation for ticks in plotting function as well the instructions for the Extra Credit section. Ilyas also mentioned to me that the py script should cover situations where bus data is not available following running bus format and suggested using if functions to cover different situations. 
 
