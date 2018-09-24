@@ -61,11 +61,14 @@ I included the Q102.csv as a sample of my bus information output.
     
 
 # Collaboration Statement:
-Specials thanks to Ilyas Habeeb and Te Du:
+Specials thanks to Ilyas Habeeb, Te Du, Chang (Angel) Liu and Alia Kasem:
 
 I consulted Te Du (a previous CUSP student) to explain the for loop, the Try and Except function, numerical data (quantitative vs qualitative).
 
 I discussed certain functions, i.e. if statement, write function, with TA Ilyas Habeeb. Ilyas also explained Part 4 of the homework and the rotation for ticks in plotting function as well the instructions for the Extra Credit section. Ilyas also mentioned to me that the py script should cover situations where bus data is not available following running bus format and suggested using if functions to cover different situations. 
+
+I also discussed the assignment instructions as well NYC Open Data with Angel Lis and Alia Kasem. 
+
 
 # Other Links Refered:
 For printing information on csv, I used fout.writelines functions: http://www.pitt.edu/~naraehan/python2/reading_writing_methods.html
