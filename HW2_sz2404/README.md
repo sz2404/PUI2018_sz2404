@@ -55,7 +55,7 @@ For this part, I built in based on the existing code I wrote in Part 3.
 
 Regarding creating CSV file and write lines, I referred to professor's code [here]( https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py)
 
-At the end, I used the writelines function at the end to display the information in the CSV file. 
+At the end, I used the writelines function at the end to display the information in the CSV file. The command writelines, I referred to this [link](http://www.pitt.edu/~naraehan/python2/reading_writing_methods.html)
 
 I included the Q102.csv as a sample of my bus information output. 
     
@@ -71,7 +71,6 @@ I also discussed the assignment instructions, MTA bus route (select bus service 
 
 
 # Other Links Refered:
-For printing information on csv, I used fout.writelines functions: http://www.pitt.edu/~naraehan/python2/reading_writing_methods.html
 
 For figure size setting, I referred to this link: 
 https://matplotlib.org/api/_as_gen/matplotlib.figure.Figure.html
