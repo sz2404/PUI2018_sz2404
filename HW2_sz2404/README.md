@@ -65,7 +65,7 @@ Specials thanks to Ilyas Habeeb, Te Du, Chang (Angel) Liu and Alia Kasem:
 
 I consulted Te Du (a previous CUSP student) to explain the for loop, the Try and Except function, numerical data (quantitative vs qualitative).
 
-I discussed certain functions, i.e. if statement, write function, with TA Ilyas Habeeb. Ilyas also explained Part 4 of the homework and the rotation for ticks in plotting function as well the instructions for the Extra Credit section. Ilyas also mentioned to me that the py script should cover situations where bus data is not available following running bus format and suggested using if functions to cover different situations. 
+I discussed certain functions, i.e. if statement, write function, with TA Ilyas Habeeb. Ilyas also explained Part 4 of the homework and the rotation for ticks in plotting function as well the instructions for the Extra Credit section. I brought up the Select Bus Services issue to Ilyas. Ilyas suggested that the py script should cover situations where bus data is not available following running bus format and suggested using if functions to cover different situations. 
 
 I also discussed the assignment instructions as well NYC Open Data with Angel Liu and Alia Kasem. After conversion with Ilyas, Angel and I had a discussion about the data structure of Select Bus Services and how to use Try & Except function and If statement to cover this situation. 
 
