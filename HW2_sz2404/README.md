@@ -4,28 +4,28 @@ I created a random txt file called Testing1. txt. Then I followed Dr. Bianco's l
 
 Here's the screenshot of the file I created:
 
-![Alt text](../HW2_sz2404/Testing1_File.png)
+![Alt text](../HW2_sz2404/Part1_Screenshots/Testing1_File.png)
 
 The repo before deleting the testing file:
 
-![Alt text](../HW2_sz2404/Repo_Before.png)
+![Alt text](../HW2_sz2404/Part1_Screenshots/Repo_Before.png)
 
 The history of HW3_sz2404 before deleting the testing file:
 
-![Alt text](../HW2_sz2404/History_Before.png)
+![Alt text](../HW2_sz2404/Part1_Screenshots/History_Before.png)
 
 Here's the commands I used in the terminal for erasing the file and the history:
 
-![Alt text](../HW2_sz2404/Terminal_Command.png)
+![Alt text](../HW2_sz2404/Part1_Screenshots/Terminal_Command.png)
 
 The repo after deleting the testing file:
 
-![Alt text](../HW2_sz2404/Repo_After.png)
+![Alt text](../HW2_sz2404/Part1_Screenshots/Repo_After.png)
 
 
 The history of HW3_sz2404 after deleting the testing file:
 
-![Alt text](../HW2_sz2404/History_After.png)
+![Alt text](../HW2_sz2404/Part1_Screenshots/History_After.png)
 
 The history section of HW3_sz2404 does not have trace of this file (Testing1.txt) being added and deleted. 
 
