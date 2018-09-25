@@ -22,16 +22,16 @@ fout=open(sys.argv[3], "w")
 
 
 
-#Set up initial following Part 3 to cover situations of Select Bus Services
+#Set up initial
 
 try:
     Q102bus = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
     BusN = len(Q102bus)
 except KeyError:
-    Q102bus = "Select bus service"
+    Q102bus = 0
     BusN = 0
     if BusN == 0:
-        print("Select bus service")
+        print("Select bus service, information unknown")
 
 #Print column title
 fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
@@ -48,13 +48,13 @@ for i in range (BusN):
         StopName = 'N/A'
         Status = 'N/A'
   
-    Long = Q102bus[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
-    Lat = Q102bus[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
+    Longitude = Q102bus[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
+    Latitude = Q102bus[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
     
 #print(Lat, Long, StopName, Status)
 #Reference for converting list to a string: https://www.quora.com/In-Python-how-do-you-convert-a-list-to-a-string
 
-    businfo = (str(Lat), str(Long), str(StopName), str(Status)+"\n")
+    businfo = (str(Latitude), str(Longitude), str(StopName), str(Status)+"\n")
     bi = str(','.join(businfo))
     fout.writelines(bi)
 
