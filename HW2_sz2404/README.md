@@ -67,6 +67,8 @@ Therefore, I structured the code with 2 "try and except statements" to cover dif
 
 To find out which bus is on 'Select Bus Service': http://web.mta.info/nyct/service/bus/mhtnsch.htm
 
+JSON files are complicated and needs to learn the data structure. I referred to [This link](https://developer.rhino3d.com/guides/rhinopython/python-dictionary-database/) for interpreting how {} and [] are used in structuring the file. 
+
 # Homework 2 - Part 4
 For this part, I built in based on the existing code I wrote in Part 3. 
 
@@ -74,8 +76,7 @@ Regarding creating CSV file and write lines, I referred to professor's code [her
 
 At the end, I used the writelines function at the end to display the information in the CSV file. The command writelines, I referred to this [link](http://www.pitt.edu/~naraehan/python2/reading_writing_methods.html)
 
-I included the Q102.csv as a sample of my bus information output. 
-    
+I included the Q102.csv as a sample of my bus information output.     
 
 # Collaboration Statement:
 Specials thanks to Ilyas Habeeb, Te Du, Chang (Angel) Liu and Alia Kasem:
