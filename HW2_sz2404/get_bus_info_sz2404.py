@@ -22,7 +22,7 @@ fout=open(sys.argv[3], "w")
 
 
 
-#Set up initial
+#Set up initial following Part 3 to cover situations of Select Bus Services
 
 try:
     Q102bus = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
