@@ -48,7 +48,7 @@ For ticks rotation, I customized the rotation angle. Instead of using 90 degrees
 The plotting date against another number part, I sticked to the tonnage data because it included dates (Year/Month). I plotted the monthly recycled paper weight per community against month.
 
 #### Watershed data plotting
-2. I also picked up another dataset, "Watershed Water Quality Data" to practice the functions and plotting. Data can be accessed [Here](https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92/data)
+I also picked up another dataset, "Watershed Water Quality Data" to practice the functions and plotting. Data can be accessed [Here](https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92/data)
 
 In this part, I repeated the procedures above but for dropping columns, I followed professor's instructions to select the two needed columns instead of dropping others. 
 
