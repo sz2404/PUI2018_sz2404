@@ -35,10 +35,10 @@ try:
     BusN=len(Q102bus)
 
 except KeyError:
-    Q102bus="Select Bus Service"
+    Q102bus=0
     BusN=0
     if BusN==0:
-        print("Select Bus Service")
+        print("Select Bus Service, information unknown")
 #np.nan will return "not a number".
 
 #Print the information as directed in the instruction. First two lines are bus information.
@@ -47,18 +47,17 @@ print("The Number of Vehicles: " + str(BusN))
 
 #Print the activie bus locations.
 
-
 for i in range(BusN):
     
     try:
-        Long = Q102bus[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
-        Lat = Q102bus[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
+        Longitude = Q102bus[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
+        Latitude = Q102bus[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
     
     except KeyError:
-        Long = "N/A"
-        Lat = "N/A"
+        Longitude = "N/A"
+        Latitude = "N/A"
 
-    print("Bus", str(i), "is at Latitude ", Lat, "and Longitude", Long)
+    print("Bus", str(i), "is at Latitude ", Latitude, "and Longitude", Longitude)
 
 
               
