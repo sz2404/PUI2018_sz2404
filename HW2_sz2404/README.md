@@ -47,6 +47,8 @@ For ticks rotation, I customized the rotation angle. Instead of using 90 degrees
 #### Tonnage data plotting
 The plotting date against another number part, I sticked to the tonnage data because it included dates (Year/Month). I plotted the monthly recycled paper weight per community against month.
 
+The plot does not visualize a good trend. Therefore, I used the unique() command as well as the mean for series command to process the data in order to get a clearer trend. Links referred to are listed in the ipynb. 
+
 #### Watershed data plotting
 I also picked up another dataset, "Watershed Water Quality Data" to practice the functions and plotting. Data can be accessed [Here](https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92/data)
 
@@ -54,6 +56,7 @@ In this part, I repeated the procedures above but for dropping columns, I follow
 
 I plotted the Turbidity collected at selected sites around 8AM against the date of collection. 
 
+I repeated the procedure for obtaining unique value and mean for this plot as well to demonstrate the trend better. 
 
 # Homework 2 - Part 3
 For this part, I referred to professor's practices in the [APIreadingJson.ipynb](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/APIreadingJson.ipynb). 
