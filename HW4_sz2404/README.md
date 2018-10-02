@@ -18,4 +18,4 @@ I follow professor's instructure on how to calculate Z-test score and refer to t
 I had a quick discussion with Professor Bianco regarding my null hypothese for the Citibike part. I also had discussion with Alia Kasem on all the parts and we shared some reference links for technical issues. 
 
 ## Reference
-I have included all the reference links as # statements in my ipynb cells. 
+I have included all the reference links as # statements in my ipynb cells. Most technical supports are from Stackflow, Pandas Documentation, and Matlibplot Documentation (i.e. Specific Python Package documentation). 
