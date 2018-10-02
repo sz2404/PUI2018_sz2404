@@ -1,6 +1,9 @@
 
 ## Homework Part 1
-I followed instructions from professor's skeleton notebook and produced my other distritbutions. 
+I followed instructions from professor's skeleton notebook and produced my other distritbutions.
+
+I used different methods to obtain the sample sizes between 10 and 2000. Therefore, on top of different distribution, the pattern and distribution concentration of each can be very different due to the sample sizes. 
+
 ## Homework Part 1 - Extra Credit
 I referred to links from stackflow also read in the Statistics in a Nutshell book about Gaussian distribution. 
 For the Gaussian line, I used the function norm.pdf to obtain value from the y-axis. X-axis is based on all the means. 
