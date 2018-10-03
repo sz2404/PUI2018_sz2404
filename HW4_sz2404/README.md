@@ -15,7 +15,7 @@ I found the usertype column demosntrates subcribers (people with long-term membe
 I follow professor's instructure on how to calculate Z-test score and refer to the lecture slides about what criteria is being used and how to interpret it for null hypothesis rejection. 
 
 ## Collaboration 
-I had a quick discussion with Professor Bianco regarding my null hypothese for the Citibike part. I also had discussion with Alia Kasem on all the parts and we shared some reference links for technical issues. 
+I had a quick discussion with Professor Bianco regarding my null hypothese for the Citibike part. I also had discussion with Alia Kasem on all the parts and we shared some reference links for technical issues. I also discussed all the parts with Chang (Angel) Liu.
 
 ## Reference
 I have included all the reference links as # statements in my ipynb cells. Most technical supports are from Stackflow, Pandas Documentation, and Matlibplot Documentation (i.e. Specific Python Package documentation). 
