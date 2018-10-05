@@ -1,6 +1,6 @@
 # Homework 5 Statement
 ## Assignment 1 - Citibike Peer Review
-In this assignment, I reviewed Nathan Benjamin Caplan's citibike project. 
+In this assignment, I reviewed Nathan Benjamin Caplan (nbc270)'s citibike project. 
 
 ## Assignment 2 - Statistical Tests and Literature Review
 
