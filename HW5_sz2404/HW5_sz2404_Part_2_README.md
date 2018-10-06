@@ -6,7 +6,7 @@ Correlation	| Total numbers of sea kraits (snake) counted on different nights du
 
 ### Major plot for literature selected for Correlation: 
 
-<img src="../HW5_sz2404/journal.pone.0028556.g001.png" width="500">
+<img src="../HW5_sz2404/journal.pone.0028556.g001.png" width="350">
 
 ### Major plot for literature selected for ANOVA:
 
