@@ -15,7 +15,7 @@ Correlation	| Total numbers of sea kraits (snake) counted on different nights du
 ### Major plot for literature selected Logistic Regression:
 
 ### Collaboration:
-I worked with Chang (Angel) Liu on this part together searching for literature in PLOS One. 
+I worked with Chang (Angel) Liu on this part together searching for literature in PLOS One. We decided on the statistical analysis method that we both interested in and search for a few potential journals. We reviewed the abstracts, relevant figures, and figure explanations together. 
 
 ### Reference for picture formatting in md files:
 https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
