@@ -3,5 +3,5 @@
 Correlation	| Total numbers of sea kraits (snake) counted on different nights during June/July | Counts | Cumulative precipitation during the previous six months| Interval | N.A | N.A | 	Does the number of sea kraits within the research area correlates with precipitation level  | Number of snakes found during high precipitation  <= Number of snakes found during low precipitation | 0.001 | [Abundance of Sea Kraits Correlates with Precipitation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028556) | 
 
 ### Major plot for literature selected for Correlation: 
-![alt rext](../HW5_sz2404/journal.pone.0028556.g001.png =100x20)
-<img src="../HW5_sz2404/journal.pone.0028556.g001.png" width="200">
+
+<img src="../HW5_sz2404/journal.pone.0028556.g001.png" width="600">
