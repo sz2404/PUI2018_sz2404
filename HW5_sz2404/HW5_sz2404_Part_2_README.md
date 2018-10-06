@@ -12,3 +12,5 @@ Correlation	| Total numbers of sea kraits (snake) counted on different nights du
 
 ### Major plot for literature selected Logistic Regression:
 
+### Reference for picture formatting in md files:
+https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
