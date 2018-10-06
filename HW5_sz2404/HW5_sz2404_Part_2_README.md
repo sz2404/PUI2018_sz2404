@@ -4,3 +4,4 @@ Correlation	| Total numbers of sea kraits (snake) counted on different nights du
 
 ### Major plot for literature selected for Correlation: 
 ![alt rext](../HW5_sz2404/journal.pone.0028556.g001.png =100x20)
+<img src="../HW5_sz2404/journal.pone.0028556.g001.png" width="200">
