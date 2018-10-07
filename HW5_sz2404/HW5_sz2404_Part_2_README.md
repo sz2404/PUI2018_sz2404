@@ -12,11 +12,11 @@ Logistic Regression	| The height of the roosting cavity (for bats) | Interval | 
 <img src="../HW5_sz2404/journal.pone.0028556.g001.png" width="350">
 
 ### Major plot for literature selected for ANOVA:
-<img src="../HW5_sz2404/journal.pone.0082712.g002.png" width="350">
+<img src="../HW5_sz2404/journal.pone.0082712.g002.png" width="450">
 
 ### Major plot for literature selected Logistic Regression:
 
-<img src="../HW5_sz2404/journal.pone.0200742.g003.PNG" width="400">
+<img src="../HW5_sz2404/journal.pone.0200742.g003.PNG" width="600">
 
 ### Collaboration:
 I worked with Chang (Angel) Liu on this part together searching for literature in PLOS One. We decided on the statistical analysis method that we both interested in and search for a few potential journals. We reviewed the abstracts, relevant figures, and figure explanations together. 
