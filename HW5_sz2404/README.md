@@ -14,8 +14,9 @@ I followed Professor's notebook and refered to some statistical reference online
 ## Assginment 4 - Citibike 2 questions
 
 ## Collaboration:
-I worked along in Assignment 1.
+I worked along in Assignment 1 and Assignment 3. 
 I worked with Chang (Angel) Liu on Assignment 2 for finding literatures on Plos One. 
+
 I consulted Chun-Chieh Tsai for Assignment 4 regarding coverting coordinates to borough names in NYC. 
 
 Special thanks to Sally Zhang, a software engineer, who answered several of my technical question, regarding using append, json file reading etc. 
