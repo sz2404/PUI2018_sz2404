@@ -5,7 +5,7 @@ In this assignment, I reviewed Nathan Benjamin Caplan (nbc270)'s citibike projec
 ## Assignment 2 - Statistical Tests and Literature Review
 Three articles were identified from PLOS one to learn more about selected Statistical Tests. 
 
-Results are documented [here](..\HW5_sz2404/HW5_sz2404_Part_2_README.md)
+Results are documented [here](..\HW5_sz2404\HW5_sz2404_Part_2_README.md)
 
 ## Assignment 3 - Reproducing NYC employment project
 
