@@ -13,5 +13,7 @@ I worked along in Assignment 1.
 I worked with Chang (Angel) Liu on Assignment 2 for finding literatures on Plos One. 
 I consulted Chun-Chieh Tsai for Assignment 4 regarding coverting coordinates to borough names in NYC. 
 
+Special thanks to Sally Zhang, a software engineer, who answered several of my technical question, regarding using append, json file reading etc. 
+
 ## Reference:
 I referred to many technical links on stackflow and github. Links are documented throughout my notebooks as # statements. 
