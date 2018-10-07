@@ -9,6 +9,8 @@ Results are documented [here](../HW5_sz2404/HW5_sz2404_Part_2_README.md)
 
 ## Assignment 3 - Reproducing NYC employment project
 
+I followed Professor's notebook and refered to some statistical reference online for value interpretation. 
+
 ## Assginment 4 - Citibike 2 questions
 
 ## Collaboration:
