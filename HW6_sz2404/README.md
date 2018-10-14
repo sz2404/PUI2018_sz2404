@@ -9,4 +9,4 @@ I followed the instructions from Denis/Huy's slides to complete the four tasks
 I consulted Sally Zhang, a software Engineer (not from NYU) for using def and apply functions. 
 
 # Reference
-I refered to some links on Stackflow etc. for technical references. All the links are included as statements throughout the notebook. 
+I refered to some links on Stackflow etc. for technical issues. All the links are included as statements throughout the notebook. 
