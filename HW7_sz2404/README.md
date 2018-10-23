@@ -1,7 +1,7 @@
 # Homework 7
 
 ## GeoPandas practices. 
-I followed the tasks on professor Bianco's notebook and used commands from Chris Prince's citibike lab notebook. 
+I followed the tasks on professor Bianco's notebook and used commands from Chris Prince's citibike lab notebook. I included some extra 'tedious' commands I did to make reference to myself that certain performance can be done through different ways etc. 
 
 The metrics I constructed focusing on learning linkNYC's impact on households. Number of person per household was obtained through American Fact Finder. 
 
