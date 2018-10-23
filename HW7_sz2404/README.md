@@ -6,7 +6,9 @@ I followed the tasks on professor Bianco's notebook and used commands from Chris
 The metrics I constructed focusing on learning linkNYC's impact on households. Number of person per household was obtained through American Fact Finder. 
 
 # Collaboration:
-I did this assignment mostly on my own with 'helps' from anonymous people from the Internet, i.e. stackflow users etc. 
+I did this assignment mostly on my own with 'helps' from anonymous people from the Internet, i.e. stackflow users etc. Basically, I was learning from their questions. 
+
+I did have some general technical discussions with Alia Kasem as normal and shared some Stackflow links. 
 
 # Reference:
 1. Citibike notebook instructions delivered by Chris Prince in class. I referred to some of his commands.
