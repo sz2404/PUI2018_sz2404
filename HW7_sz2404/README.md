@@ -10,7 +10,7 @@ I did this assignment mostly on my own with 'helps' from anonymous people from t
 
 I did have some general technical discussions with Alia Kasem as normal and shared some Stackflow links. 
 
-Chang (Angel) Liu showed me how to move the legend after I tried millions of different ways. 
+Chang (Angel) Liu and Tanya showed me how to move the legend after I tried millions of different ways. 
 
 # Reference:
 1. Citibike notebook instructions delivered by Chris Prince in class. I referred to some of his commands.
