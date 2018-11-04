@@ -9,7 +9,10 @@ I review the project suggestion provided by cb4221 and incorporated the followin
   1. Null Hypothesis revision
   2. Using Mann-Whitney U test
 
-Revised notebook with testing: 
+I wrote up a short summary report of my Citibike Mini project which includes project background, data and methodology used, as well testing results. The report is finished through Authorea. 
+
+Revised notebook with testing results have been uploaded into the HW7 folder, can be accessed here: 
+
 Link to summary report on Authorea:
 
 ## Collaboration:
