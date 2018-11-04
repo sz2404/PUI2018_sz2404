@@ -1,6 +1,6 @@
 # Homework 8
 ## Part 1 - Plot
-** Caption:**
+**Caption:**
 
 ## Part 2 - Citibike Mini Project
 
