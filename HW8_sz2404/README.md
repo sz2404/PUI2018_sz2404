@@ -8,6 +8,7 @@ I review the project suggestion provided by cb4221 and incorporated the followin
 
   1. Null Hypothesis revision
   2. Using Mann-Whitney U test
+  3. Additional tests: Chi-Square and Fischer's Exact Test
 
 I wrote up a short summary report of my Citibike Mini project which includes project background, data and methodology used, as well testing results. The report is finished through Authorea. 
 
