@@ -11,7 +11,7 @@ The notebook for making the plot can be found [here](../HW8_sz2404/HW8_sz2404_Pl
 I review the project suggestion provided by cb4221 and incorporated the following changes:
 
   1. Null Hypothesis revision
-  2. The typo of nunique() was corrected to count() instead of unique() as I was interested in finding out how many rides were  collected for each user type. 
+  2. The typo of nunique() was corrected to count() instead of unique() as I was interested in finding out how many rides were  collected for each user type. The functon nunique() would be able to count all the unique start times under a usertype. However, some rides can start at the same and the result of nunique() would not be able to cover all the counts. 
   2. Using Mann-Whitney U test
   3. Additional tests: Chi-Square and Fischer's Exact Test
 
