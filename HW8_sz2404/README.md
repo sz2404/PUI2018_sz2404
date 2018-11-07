@@ -5,7 +5,7 @@
 
 **Caption:**
 This bar plot demonstrates the annual average weight of trash and recycled material of collected per capita of the five boroughs of New York City. The measurement unit is in kilogram. Population data used was from 2010. The bar chart shows that way more trash has been produced per capita on an annual basis than recycled material. Recycled material is a sum of both paper and metal&glass collected. Manhattan borough residents shows the least trash production while Bronx residents diverged the least recycling material. 
-The notebook for making the plot can be found [here](../HW8_sz2404/HW8_sz2404_Plot.ipynb)
+The notebook for making the plot can be found [here](../HW8_sz2404/HW8_Part1_sz2404_Plot.ipynb)
 
 ## Part 2 - Citibike Mini Project
 
