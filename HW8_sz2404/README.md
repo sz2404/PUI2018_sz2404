@@ -27,7 +27,7 @@ Link to summary report on Authorea: click [here](https://www.authorea.com/users/
 
 I work on this homework alone. 
 
-For the plotting part, I consulted Te Du, Kate Glass, Cathy Cheung, Kaylee Jin, and Erjia Guo (a former CUSP fellow and other friends of mine outside NYU), as well Alia Kasem regarding my plots to determine if the data visualization was understandable to different audiences. 
+For the plotting part, I consulted Te Du, Kate Glass, Cathy Cheung, Kaylee Jin, and Erjia Guo (a former CUSP fellow and other friends of mine from and outside NYU), as well Alia Kasem regarding my plots to determine if the data visualization was understandable to different audiences. 
 
 ## Reference:
 References used for plots making and statistics interpretation were cited along the notebook as well as at the end of the authorea summary report. 
