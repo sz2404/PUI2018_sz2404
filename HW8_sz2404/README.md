@@ -1,6 +1,8 @@
 # Homework 8
 ## Part 1 - Plot
 
+![Alt Text](../HW8_sz2404/NYC_Borough_Tonnage.png)
+
 **Caption:**
 This bar plot demonstrates the monthly average weight of trash and recycled material of collected per community under each of the five boroughs of New York City. The measurement unit is in tons. The original data was collected on a monthly basis showing the weight of each community under the boroughs. The number of communities are very different among the 5 boroughs, and therefore, the mean was calculated to represent their tonnage record. 
 
