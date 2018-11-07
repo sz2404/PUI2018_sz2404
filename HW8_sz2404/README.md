@@ -4,8 +4,7 @@
 ![Alt Text](../HW8_sz2404/NYC_Borough_Tonnage.png)
 
 **Caption:**
-This bar plot demonstrates the monthly average weight of trash and recycled material of collected per community under each of the five boroughs of New York City. The measurement unit is in tons. The original data was collected on a monthly basis showing the weight of each community under the boroughs. The number of communities are very different among the 5 boroughs, and therefore, the mean was calculated to represent their tonnage record. 
-
+This bar plot demonstrates the annual average weight of trash and recycled material of collected per capita of the five boroughs of New York City. The measurement unit is in kilogram. Population data used was from 2010. The bar chart shows that way more trash has been produced per capita on an annual basis than recycled material. Recycled material is a sum of both paper and metal&glass collected. Manhattan borough residents shows the least trash production while Bronx residents diverged the least recycling material. 
 The notebook for making the plot can be found [here](../HW8_sz2404/HW8_sz2404_Plot.ipynb)
 
 ## Part 2 - Citibike Mini Project
