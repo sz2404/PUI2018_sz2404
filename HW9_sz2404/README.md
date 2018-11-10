@@ -3,7 +3,7 @@
 ## Part 1 - Plot Review
 I reviewed the plots produced by rs6431 and ks5063. 
 
-The reviews are saved in HW9_sz2404 folder and for [rs6431](../HW9_sz2404/rs6431_plotReview_sz2404.md) and [ks5063](../HW9_sz2404/ks5063_plotReview_sz2404).
+The reviews are saved in HW9_sz2404 folder and for [rs6431](../HW9_sz2404/rs6431_plotReview_sz2404.md) and [ks5063](../HW9_sz2404/ks5063_plotReview_sz2404.md).
 
 Pull requests have been sent to repo owners for merging. 
 ## Part 2 - Statsmodel OLS and WLS
