@@ -19,5 +19,5 @@ Aesthetic-wise in general, the plot is very concise without reduntant elements a
 ### HONESTY: 
 *is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?*
 
-**Comments:** After reviewing the notebook, the plot seems to have presented the data honestly through good processing of the original data. Map projection is relatively with a good choice that the final visualization of the borough shapes/relative locations are close to what audiences normally picture the boroughs.  
+**Comments:** After reviewing the notebook, the plot seems to have presented the data honestly through good processing of the original data. Map projection is relatively with a good choice that the final visualization of the borough shapes/relative locations are close to what audiences normally picture the boroughs. Colour codes reflects the data in a consistant way among all the plots. 
 
