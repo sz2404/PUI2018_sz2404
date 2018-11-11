@@ -19,7 +19,7 @@ It can be seen that the GDP has slight differences between the data I collected 
 # Collaboration:
 Part 1: I worked alone for this part. 
 
-Part 2 & Part 3: I had general discussions with Alia Kasem to make sure that I have correctly understood the instructions. 
+Part 2 & Part 3: I had general discussions with Alia Kasem to make sure that I have correctly understood the instructions. Also, we two exchanged some sources on some technical issues on plotting, statisics etc. 
 
 # Reference:
 References has made along the notebook whenever functions were borrowed from Stack Overflow other other Python Package Documentations. 
