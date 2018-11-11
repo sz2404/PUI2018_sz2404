@@ -22,4 +22,4 @@ Part 1: I worked alone for this part.
 Part 2 & Part 3: I had general discussions with Alia Kasem to make sure that I have correctly understood the instructions. 
 
 # Reference:
-References as made along the notebook whenever functions were borrowed from Stack Overflow other other Python Package Documentations. 
+References has made along the notebook whenever functions were borrowed from Stack Overflow other other Python Package Documentations. 
