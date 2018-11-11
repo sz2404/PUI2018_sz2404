@@ -16,6 +16,6 @@ It can be seen that the GDP has slight differences between the data I collected 
 # Collaboration:
 Part 1: I worked alone for this part. 
 
-Part 2 & Part 3: I had general discussions with Alia Kasem to make sure that I have correctly understand the instructions. 
+Part 2 & Part 3: I had general discussions with Alia Kasem to make sure that I have correctly understood the instructions. 
 
 # Reference:
