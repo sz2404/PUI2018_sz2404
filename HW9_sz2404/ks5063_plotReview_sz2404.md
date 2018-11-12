@@ -15,7 +15,7 @@ Another item can be considered is to have an explanation of the term 'charges' i
 
 **Comments:** 
 
-Colour choice of the different boroughs' utility charge is very good that audience can tell the potential expenses rank of the three boroughs. At the same time, the Color Oracle testing was used and it seems to work well for audiences with colour blindness issues. The colour of the borough names can possibly be considered to change. At this moment, the blue colour, on top of dark right can be just a little bit unpleasant to look at.
+Colour choice of the different boroughs' utility charge is very good that audience can tell the potential expenses rank of the three boroughs. At the same time, the Color Oracle testing was used and it seems to work well for audiences with colour blindness issues. The colour of the borough names can possibly be considered to change. At this moment, the blue colour, on top of dark red can be just a little bit unpleasant to look at.
 
 Aesthetic-wise in general, the plot is very concise without reduntant elements and non of the grapical elements would cause any distractions. 
 
