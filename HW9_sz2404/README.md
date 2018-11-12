@@ -36,3 +36,5 @@ Part 2 & Part 3: I had general discussions with Alia Kasem to make sure that I h
 
 # Reference:
 References has made along the notebook whenever functions were borrowed from Stack Overflow other other Python Package Documentations. 
+
+Altman, N., & Krzywinski, M. (2016). Points of Significance: Analyzing outliers: influential or nuisance?.
