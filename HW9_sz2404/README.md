@@ -14,9 +14,13 @@ I followed Dr. Bianco's skeleton notebook.
 I followed Dr. Bianco's skeleton notebook. 
 
 I have included all the raw data file within this folder:
+
 Population, click [here](../HW9_sz2404/API_SP.POP.TOTL_DS2_en_excel_v2_10181007.xls)
+
 GDP, click [here](../HW9_sz2404/API_NY.GDP.MKTP.CD_DS2_en_excel_v2_10203546.xls)
+
 Firearms murders and owndership, click [here](../HW9_sz2404/World firearms murders and ownership.xlsx)
+
 Mass shooting, click [here](../HW9_sz2404/data-pvLFI.csv)
 
 Note on GDP value: 
