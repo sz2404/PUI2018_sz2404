@@ -1,6 +1,6 @@
 ## Review for ks5063:
 
-![Alt Text](PUI2018_ks5063/HW8_ks5063/HW8.png)
+![Alt Text](sz2404/PUI2018_ks5063/blob/master/HW8_ks5063/HW8.png)
       
 
 ### CLARITY: 
