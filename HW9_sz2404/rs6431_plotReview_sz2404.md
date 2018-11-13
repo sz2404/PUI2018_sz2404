@@ -3,7 +3,7 @@
 
 ### CLARITY: 
 
-The plot is straightforward for common public interpretation. The title, legend, and the caption are easy to follow. 
+The plot is straightforward for general public interpretation. The title, legend, and the caption are easy to follow. 
 
 Potentially, it can be considered to zoom into where all the food services are so overlay of dots can be avoided. Streets can be possibly added to the map to demonstrate the location of food services. Additionally, comparing to the original district shape from the notebook, the shape of the final plot demonstrates certain degrees of stretch on the east-west axis. Therefore, the accuracy of the locations and distnaces might have been compromised for a little bit.
 
