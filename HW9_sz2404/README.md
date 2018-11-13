@@ -19,7 +19,7 @@ Population: click [here](../HW9_sz2404/Population.xls)
 
 GDP: click [here](../HW9_sz2404/GDP.xls)
 
-Firearms murders and owndership: click [here](PUI2018_sz2404/HW9_sz2404/World_firearms_murders_and_ownership.xlsx)
+Firearms murders and owndership: click [here](../HW9_sz2404/World_firearms_murders_and_ownership.xlsx)
 
 Mass shooting: click [here](../HW9_sz2404/data-pvLFI.csv)
 
