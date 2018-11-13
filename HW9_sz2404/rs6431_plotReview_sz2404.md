@@ -1,5 +1,4 @@
 ## Review for rs6431:
-)
 ![Alt text](https://github.com/Rufei-Sheng/PUI2018_rs6431/blob/master/HW8_rs6431/Plot_TimeSquare_food.png)
 
 ### CLARITY: 
