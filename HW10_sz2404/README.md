@@ -6,7 +6,7 @@ I followed the instructions from Dr.Bianco's notebook.
 I followed the instructions from Dr.Bianco's notebook. 
 
 ### Extra Credit for Part 2:
-I completed the EC2, plotting everything. In addition, I made an extra plot to investigate the energy efficiency of building. 
+I only completed the EC2, plotting everything. In addition, I made an extra plot to investigate the 'energy efficiency' of building. 
 
 ## Collaboration:
 
