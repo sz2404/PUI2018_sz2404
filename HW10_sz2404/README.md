@@ -5,6 +5,9 @@ I followed the instructions from Dr.Bianco's notebook.
 ## Part 2 - Energy Consumption & PLUTO
 I followed the instructions from Dr.Bianco's notebook. 
 
+### Extra Note:
+KDE diagonal could not load and during every trial, it killed the kernel. Therefore, histogram on diagonal was used. 
+
 ### Extra Credit for Part 2:
 I only completed the EC2, plotting everything. In addition, I made an extra plot to investigate the 'energy efficiency' of building. 
 
