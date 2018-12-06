@@ -1,6 +1,10 @@
 # Homework 11
 ## Part 1 MTA Rides:
+I had many discussions with three classmates (stated below). 
 
+I am not very familiar with numpy arrays and found pandas dataframe is easier to understand. Therefore, for many parts, I converted the numpy array to dataframes for plotting and modelling. 
+
+I will make a note to myself to improve my knowledge in numpy arrays.
 
 ## Part 2 Plot modifications:
 I worked alone on this part. 
@@ -15,3 +19,6 @@ I had discussions with Alia Kasem, Chang (Angel) Liu, Antonio Kodsy on the tasks
 I have applied and used the 72-hour extension this week. 
 
 ## Reference:
+I referred to many links from Stack Overflow for technical issues as well as Chris Albon's blog on specific functions and results. 
+
+Reference links are stated throughout the notebook. 
