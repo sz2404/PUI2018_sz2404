@@ -8,7 +8,9 @@ The notebook for data cleaning and processing can be located [here](https://gith
 Project report is composed on Authorea by clicking [here](https://www.authorea.com/users/249295/articles/341302-relationship-between-foodborne-illness-and-restaurant-inspection-result-in-new-york-city).
 
 ## Supporting Data
-Due to the downloading issues to 311 data, a copy of the csv data downloaded from the NYC data portal has been included in this folder, can be accessed [here]().
+Due to the downloading issues of 311 data, a copy of the csv data downloaded from the NYC data portal has been included in this folder. This data is downloaded on December 14th,2018. It can be accessed [here](https://github.com/sz2404/PUI2018_sz2404/blob/master/Extra_Credit_Project/311_Service_Requests_from_2010_to_Present.csv).
+
+Inspection results can be downloaded directet [here](https://data.cityofnewyork.us/api/views/43nn-pn8j/rows.csv?accessType=DOWNLOAD)
 
 
 
