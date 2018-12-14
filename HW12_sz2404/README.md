@@ -6,7 +6,7 @@ I referred to many online resources to understand FFT theory and how it applies 
 Due to time constraints, I only finished partially of Part 2 but I plan to learn and finish it later. 
 
 ## Collaboration:
-I consulted Change (Angel) Liu and Alia Kasem. We had discussions on Fast Fourier Transform which helped me understand the Part 1 of the assignment better so I was able to plot and identify the results. 
+I consulted Change (Angel) Liu and Alia Kasem. We had discussions on Fast Fourier Transform which helped me understand the Part 1 of the assignment better so I was able to plot and identify the results. I also consulted Te Du (a former CUSP folk) on for loops writing. 
 
 ## Reference:
 Many reference links are cited as statements throughout the notebook. 
