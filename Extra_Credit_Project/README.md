@@ -12,5 +12,8 @@ Due to the downloading issues of 311 data, a copy of the csv data downloaded fro
 
 Inspection results can be downloaded directet [here](https://data.cityofnewyork.us/api/views/43nn-pn8j/rows.csv?accessType=DOWNLOAD)
 
+Due to module issues of Graphviz, the trees planted by Random Forest are exported as dot file and later on visualized from a online graph generator (access [here](http://www.webgraphviz.com/)). 
+
+
 
 
