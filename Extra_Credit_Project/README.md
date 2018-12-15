@@ -14,6 +14,12 @@ Inspection results can be downloaded directet [here](https://data.cityofnewyork.
 
 Due to module issues of Graphviz, the trees planted by Random Forest are exported as dot file and later on visualized from a online graph generator (access [here](http://www.webgraphviz.com/)). 
 
+## Collaboration
+This project has been conducted on an individual basis. 
+
+Special thanks to Dr. Federica Bianco providing guidance on analysis methodology and data interpretations. 
+
+Special thanks to Te Du and Chun-Chiah Tsai for providing other general advices on statistics and Python.   
 
 
 
