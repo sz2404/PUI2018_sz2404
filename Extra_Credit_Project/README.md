@@ -1,4 +1,4 @@
-# Extra Credit Project
+# Project Description
 This folder contains supporting data and code written for the Extra Credit Project. 
 
 ## Python Notebook
